@@ -3,11 +3,11 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: Document _anything_ ✨
+subtitle: Rhew _Geog 143: Global Change Biogeochemistry_ ✨
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
+    name: Lecture Notes
     description: For users
   - icon: question
     icon_pack: fas
