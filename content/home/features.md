@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: Rhew _Geog 143: Global Change Biogeochemistry_ ✨
+subtitle: Rhew _Geog 143 Global Change Biogeochemistry_ ✨
 feature:
   - icon: book-open
     icon_pack: fas
